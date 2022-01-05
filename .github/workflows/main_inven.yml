@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'inven'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59AC9DF384AC425B9AB521DBC2667F69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_165226B2CF224889B1C793994B3D7B3E }}
           package: .
